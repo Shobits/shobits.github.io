@@ -1,2 +1,2 @@
-# Shobits.github.io
+# shobits.github.io
 Static personal blog
